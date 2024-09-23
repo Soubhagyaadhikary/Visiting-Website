@@ -1,2 +1,2 @@
 # Visiting-site
-https://soubhagyaadhikary.github.io/Visiting-site/
+https://soubhagyaadhikary.github.io/Visiting-Website/
